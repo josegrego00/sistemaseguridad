@@ -1,1 +1,1 @@
-mi READER 
+Sistema de Gestion de Incidencias de Seguridad
